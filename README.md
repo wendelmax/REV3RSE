@@ -1,2 +1,2 @@
-# REV3RSO
+# REV3RSE
 Just a simple e-procurement management system

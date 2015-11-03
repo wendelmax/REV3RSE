@@ -1,2 +1,2 @@
 # REV3RSE
-Just a simple e-procurement management system
+Just a simple e-procurement system
